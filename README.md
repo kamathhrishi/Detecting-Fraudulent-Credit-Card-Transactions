@@ -1,2 +1,2 @@
 # Detecting-Fraudulent-Credit-Card-Transactions
-The dataset was a higly skewed dataset of 284,807 transactions in which only 492 transcations were fradulent (0.172%).
+Trained a Isolation Forest anomaly detection algorithm which gave 96.5% accuracy in predicting fraudulent transactions in test set. The dataset was a higly skewed dataset of 284,807 transactions in which only 492 transcations were fradulent (0.172%). Developed in Python using Sklearn's Imbalanced learn , Seaborn for data visualization and pandas for data manipulation. 
